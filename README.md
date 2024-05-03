@@ -1,4 +1,4 @@
-- 👋 Hi, I’m A TEACHER, DAATA ANALYST AND A MOTHER
+- 👋 Hi, I’m A TEACHER, DATA ANALYST AND A MOTHER
 - 👀 I’m interested in REMOTE DATA ANALYSIS JOB
 - 🌱 I’m currently learning ADVANCED EXCEL, TABLEAU, POWERBI AND EVERYTHING
 - 💞️ I’m looking to collaborate on DATA ANALYSIS
